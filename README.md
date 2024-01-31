@@ -1,4 +1,4 @@
-# Terraform_EC2_Jenkins
+# Fully functional Jenkins server on EC2 (Amazon Linux AMI) instance
 
 * You need to create a key "jenkins-server-key"
 * You need to modify backend information
